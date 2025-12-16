@@ -8,9 +8,7 @@ This project was created as part of a technical task.
 ---
 
 ##Live Project Links
-
-- Frontend URL: https://task-manager-backend-g21z.onrender.com
-- Backend API URL: https://task-manager-frontend-amber-five.vercel.app/ 
+- Backend API URL: https://task-manager-backend-g21z.onrender.com
 
 ---
 
@@ -59,7 +57,7 @@ This project was created as part of a technical task.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/task-manager.git  
+git clone https://github.com/solankitushar123/Task-Manager-backend.git  
 
 ----
 
@@ -80,28 +78,8 @@ MONGO_URI=your_mongodb_connection_string
 
 node server.js
 
-
-
-******** Frontend Setup *************
-
- 
-1.  Go to frontend folder
-
-cd frontend
-npm install
-
-----
-
-2.  Create .env file:
-
-VITE_API_URL=your_backend_api_url
-
-----
-
-
-3. Run the frontend
-
 npm run dev
+
 
 
 
