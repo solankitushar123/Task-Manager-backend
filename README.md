@@ -9,8 +9,8 @@ This project was created as part of a technical task.
 
 ##Live Project Links
 
-- Frontend URL: https://your-frontend-url.vercel.app  
-- Backend API URL: https://your-backend-url.onrender.com  
+- Frontend URL: https://task-manager-backend-g21z.onrender.com
+- Backend API URL: https://task-manager-frontend-amber-five.vercel.app/ 
 
 ---
 
@@ -102,5 +102,6 @@ VITE_API_URL=your_backend_api_url
 3. Run the frontend
 
 npm run dev
+
 
 
